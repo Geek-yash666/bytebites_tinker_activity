@@ -4,3 +4,15 @@
 # 2. FoodItem: Represents menu items with attributes like name, price, category, and popularity.
 # 3. Menu: Manages the collection of FoodItems and provides category filtering.
 # 4. Transaction: Groups a customer's selected FoodItems and calculates the total cost.
+
+class Customer:
+    pass
+
+class FoodItem:
+    pass
+
+class Menu:
+    pass
+
+class Transaction:
+    pass
